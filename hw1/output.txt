@@ -1,11 +1,3 @@
-Using base path: /Users/zhengboyang/documents/courses/fall2015/SNLP/HW/HW1/data1
-Using model: bigram
-HUB Perplexity:  536.2454893074115
-WER Baselines:
-  Best Path:  0.0
-  Worst Path: 0.21014009339559706
-  Avg Path:   0.11927055936159012
-
 GUESS:	AM: -2.66E03	LM: -6.92E01	Total: -2.73E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 GOLD:	AM: -2.66E03	LM: -6.92E01	Total: -2.73E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 
@@ -308,6 +300,3 @@ GOLD:	AM: -2.13E03	LM: -8.75E01	Total: -2.22E03	[yesterday, many, corn, futures,
 
 GUESS:	AM: -9.67E02	LM: -2.59E01	Total: -9.93E02	[she, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -2.59E01	Total: -9.93E02	[she, could, n't, be, reached, for, comment]
-HUB Word Error Rate: 0.06604402935290193
-Generated Sentences:
-  [people, partnership, ninety, be, plunge, the, was, demands, punishable, as, point, billion, and, health, majority, will, shares, miami, some, be, voted, been, technique, in, doughnut, to, elderly, has, columbia, tuesday, roly, say, result, muscle, and, losses, libyan, nixon, expected, and, stop, did, of, of, a, a, act, service, restrictions, but, from, strategy, that, area, red, five, they, retaining, to, analog, major, changes, two, seven, rebates, dollars, of, treasury, or, appeared, then, he, from, few, stock, have, close, entire, leaders, is, million, have, and, delay, plus, point]
